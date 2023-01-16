@@ -1,0 +1,39 @@
+.calculator_screen{
+   width: fit-content;
+   float: right;
+text-align: right;
+align-self: flex-end;
+padding: 0 20px;
+margin-top: 80px;
+
+}
+
+#results{
+    color: rgb(255, 255, 255);
+    font-size: 90px;
+    font-family: Myriad;
+    font-weight: 50;
+    margin: 0;
+}
+
+
+@media (max-width: 600px) {
+    .calculator_screen{
+        
+        display: flex;
+        width: fit-content;
+        height: fit-content;
+        float: right;
+     text-align: right;
+     align-self: flex-end;
+     padding: 0 28.5px 0 0;
+     margin: 0;
+     margin-top: auto;
+
+
+     
+     }
+
+
+
+}   
