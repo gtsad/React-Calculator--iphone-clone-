@@ -1,5 +1,5 @@
 # React Calculator
-This is a iPhone calculator clone created with ReactJS.
+This is an iPhone calculator clone created with ReactJS.
 
 ## Screenshot mobile version
 
