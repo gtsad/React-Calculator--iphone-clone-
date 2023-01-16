@@ -1,11 +1,11 @@
 .calculator_screen{
    width: fit-content;
+   height: fit-content;
    float: right;
 text-align: right;
 align-self: flex-end;
 padding: 0 20px;
-margin-top: 80px;
-
+margin-top: auto 
 }
 
 #results{
